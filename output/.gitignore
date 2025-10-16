@@ -1,0 +1,9 @@
+# Ignore browser profiles and output
+output/
+__pycache__/
+*.log
+*.png
+*.pdf
+chromedriver*
+.scraper.log
+.DS_Store

@@ -1,0 +1,13 @@
+{
+  "date": "2025-10-15",
+  "state": "Delhi",
+  "district": "New Delhi",
+  "court_complex": "District Court Complex",
+  "downloads": [
+    {
+      "court": "Court No.1",
+      "judge": "A B",
+      "file": "output/Delhi/New Delhi/District Court Complex/2025-10-15/Court No.1.pdf"
+    }
+  ]
+}
